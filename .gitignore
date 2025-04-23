@@ -17,3 +17,6 @@ blogenv/
 
 # Ignore Django SQLite DB
 db.sqlite3
+
+# Ignore uploaded files
+media/userdata/
